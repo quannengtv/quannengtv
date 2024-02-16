@@ -5,3 +5,4 @@
 【文件管理】高效的管理查找你的文件，提供压缩解压缩
 【视频和音频剪辑】方便易上手的视频、音频剪辑工具
 ### 备用网址 www.youwua.com
+https://github.com/quannengtv/quannengtv/wiki
